@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Obsidian Cheat Sheet/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c5dafa0f7eed6c89",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb6dd808aeb19352",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Untitled"
             }
           }
         ]
@@ -180,6 +164,13 @@
   },
   "active": "f9f366ac2f3c4b6b",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Templates/obsidian.css",
+    "Templates/theme.css",
+    "Templates",
+    "Nueva carpeta",
+    "theme.css",
+    "Obsidian Cheat Sheet/Untitled.md",
+    "Welcome.md",
+    "Obsidian Cheat Sheet"
   ]
 }

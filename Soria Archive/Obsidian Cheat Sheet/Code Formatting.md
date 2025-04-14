@@ -1,0 +1,1 @@
+==Sample text ${\int_{0}^{1}f\left(x\right) dx}$ Sample text==
